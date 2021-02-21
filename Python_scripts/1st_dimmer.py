@@ -5,7 +5,7 @@ import time
 
 freq = 100
 pin = 18
-min = 1
+min = 0
 max = 99
 
 """ GPIO SETTINGS """
@@ -23,7 +23,7 @@ while (check == 0):
 	if (value == -1):
 		pwm.ChangeDutyCycle(1)
 		check = -1
-	elif (value < min) or (value > max):
+	elif (value <= min) or (value >=  max):
 		print("Out of range! Acceptable values only in 1-99\n")
 	else:
 		print (value)

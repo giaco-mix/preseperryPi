@@ -3,7 +3,7 @@ import time
 
 """ Definitions """
 
-freq = 100
+freq = 1000
 pin = 18
 min = 1
 max = 99
