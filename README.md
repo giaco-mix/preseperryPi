@@ -1,2 +1,2 @@
 # preseperryPi
-Dioram Coding for Raspberry
+Diorama Coding for Raspberry
