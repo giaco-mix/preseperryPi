@@ -11,10 +11,10 @@ nel link qua sopra c'é qualcosa di simile.
 un altra cosa che ho capito é che sti TRIAC si attivino quando ricevono un pulse dal segnale pwm e poi stanno ON fin a una presunta 'fine del ciclo' che non 
 ho capito esattamente cosa sia, quindi magari il nostro problema potrebbe essere che comunque il TRIAC rimanga ancora acceso per un tot e faccia passare corrente che non vogliamo
 
-##MPDM v4 DIMMING AC LIGHTBULB WITH R-Pi
+## MPDM v4 DIMMING AC LIGHTBULB WITH R-Pi
 
 * https://www.tindie.com/products/next_evo1/universal-ac-mains-dimmer-mpdmv41/
 
-##ALTERNATIVE GPIO LIBRARY
+## ALTERNATIVE GPIO LIBRARY
 
 * http://abyz.me.uk/rpi/pigpio/index.html
