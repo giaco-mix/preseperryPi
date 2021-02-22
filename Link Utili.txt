@@ -2,4 +2,6 @@ MPDM v4 DIMMING AC LIGHTBULB WITH R-Pi
 
 https://www.tindie.com/products/next_evo1/universal-ac-mains-dimmer-mpdmv41/
 
+ALTERNATIVE GPIO LIBRARY
 
+http://abyz.me.uk/rpi/pigpio/index.html
