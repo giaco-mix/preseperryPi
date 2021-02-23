@@ -1,5 +1,5 @@
 # Link utili 
-__ for more info about *md* files and tags visit: * https://guides.github.com/features/mastering-markdown/ * __
+__ for more info about *.md* files and tags visit: * https://guides.github.com/features/mastering-markdown/ * __
 
 ## DIMMER PWM
 
