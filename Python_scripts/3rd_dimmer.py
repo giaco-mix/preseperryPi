@@ -9,7 +9,7 @@ min = 0
 max = 100
 
 """ GPIO SETTINGS """
-pwm = PWMled(pin)
+pwm = PWMLED(pin)
 
 """ STARTING ROUTINE """
 
