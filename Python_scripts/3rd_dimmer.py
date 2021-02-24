@@ -20,6 +20,8 @@ while (check == 0):
 	if (value == -1):
 		pwm.value = 1
 		check = -1
+	elif (value == 0.0):
+		pwm.off
 	elif (value <= min) or (value >=  max):
 		print("Out of range! Acceptable values only in 1-99\n")
 	else:
