@@ -25,3 +25,8 @@ _Jack -> la presunta fine del ciclo è il momento in cui l'onda torna a zero. l'
 ## LC FILTER
 
 * https://www.electroyou.it/forum/viewtopic.php?f=1&t=52506
+
+## EXAMPLE PROJECT WITH ARDUINO AND <h1> RBDdimmer.h </h1>
+
+* https://robotdyn.com/Blog/how-to-control-ac-power-with-dimmer.html
+
