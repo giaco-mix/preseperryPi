@@ -21,3 +21,7 @@ _Jack -> la presunta fine del ciclo è il momento in cui l'onda torna a zero. l'
 ## ALTERNATIVE GPIO LIBRARY
 
 * http://abyz.me.uk/rpi/pigpio/index.html
+
+## LC FILTER
+
+* https://www.electroyou.it/forum/viewtopic.php?f=1&t=52506
