@@ -19,6 +19,8 @@
 - [ ] PWM da ARDUINO
 - [ ] PWM da ARDUINO mini
 
+- [ ] Bestemmie in lingue cretive
+
 
 ## Extras:
 - [ ] DIMMING con scheda dimmer già in uso al presepe
