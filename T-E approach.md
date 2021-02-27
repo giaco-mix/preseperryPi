@@ -19,7 +19,7 @@
 - [ ] PWM da ARDUINO
 - [ ] PWM da ARDUINO mini
 
-- [ ] Bestemmie in lingue cretive
+- [v] Bestemmie in lingue cretive
 
 
 ## Extras:
