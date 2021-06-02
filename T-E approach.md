@@ -19,12 +19,12 @@
 - [ ] PWM da ARDUINO
 - [ ] PWM da ARDUINO mini
 
-- [x] Bestemmie in lingue cretive
+- [x] Bestemmie in lingue creative
 
 
 ## Extras:
-- [ ] DIMMING con scheda dimmer già in uso al presepe
-- [ ] CERCARE ALTRA LIBRERIA ALTENRATIVA
+- [x] DIMMING con scheda dimmer già in uso al presepe -> correctly working
+- [x] CERCARE ALTRA LIBRERIA ALTENRATIVA -> trovata https://github.com/OpenLightingProject/ola https://www.openlighting.org/ola/tutorials/ola-on-raspberry-pi/
 - [ ] TESTARE CON CIRCUITO LC
 
 
