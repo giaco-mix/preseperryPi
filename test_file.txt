@@ -1,0 +1,1 @@
+Hi, that's just a test file to see if everything's working correctly with git on raspberry.
