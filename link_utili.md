@@ -17,7 +17,7 @@ _Jack -> la presunta fine del ciclo è il momento in cui l'onda torna a zero. l'
 
 ## NAMES
 
-* PWM YYAC-3S AC 220V
+* PWM YYAC-3S AC 220V ( https://it.aliexpress.com/item/1005004022779319.html )
 * AC Dimmer PWM by RobotDyn
 
 ## BOARD PAGES AND DOCS
